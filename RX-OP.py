@@ -1,12 +1,12 @@
 #Don't Forget To Follow My Facebook Page👇
 # https://www.facebook.com/Md.Ashekur.Islam12
 import os,sys,time,json,random,re,string,platform,base64,uuid
-os.system("git pull")
-from bs4 import BeautifulSoup as sop
+os.system(
+from bs4 import Beoup as sop
 from bs4 import BeautifulSoup
 import requests as ress
 from datetime import date
-from datetime import datetime
+from datetime importime
 from time import sleep
 from time import sleep as waktu
 try:
